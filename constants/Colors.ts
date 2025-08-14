@@ -29,6 +29,7 @@ export const Colors = {
 };
 
 export const colors = {
-  primary: '#687076',
+  // primary: '#687076',
+  primary: '#6d858a',
   primaryWhite: 'rgba(255, 255, 255, 0.85)'
 }
