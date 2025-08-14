@@ -15,6 +15,11 @@ const RootLayout = () => {
     const colorScheme = useColorScheme();
       const [loaded] = useFonts({
         SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
+        IBMLight: require('../assets/fonts/IBMPlexMono-Light.ttf'),
+        IBMMedium: require('../assets/fonts/IBMPlexMono-Medium.ttf'),
+        IBMRegular: require('../assets/fonts/IBMPlexMono-Regular.ttf'),
+        IBMSemiBold: require('../assets/fonts/IBMPlexMono-SemiBold.ttf'),
+        IBMBold: require('../assets/fonts/IBMPlexMono-Bold.ttf'),
       });
 
 
