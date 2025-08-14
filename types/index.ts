@@ -17,3 +17,7 @@ export type MarketList = {
   updatedAt: string;
   version?: number;
 };
+
+export type ScreenHeaderProps = {
+  title: string;
+}

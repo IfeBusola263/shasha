@@ -38,4 +38,5 @@ yarn-error.*
 
 app-example
 
-index.html
+*.html
+*.css

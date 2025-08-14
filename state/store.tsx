@@ -1,18 +1,20 @@
 import persistMiddleware from '@/middlewares/persistMiddleware';
 import syncMiddleware from '@/middlewares/syncMiddleware';
 import { configureStore } from '@reduxjs/toolkit';
-import { useDispatch } from 'react-redux';
-import { thunk } from 'redux-thunk';
+import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
+import authReducer from './slices/auth-slice';
 import listsReducer from './slices/lists-slice';
 
 export const store = configureStore({
   reducer: {
+    auth: authReducer,
     lists: listsReducer,
   },
   middleware: (getDefaultMiddleware) =>
-    getDefaultMiddleware({ serializableCheck: false }).concat(thunk, persistMiddleware, syncMiddleware),
+    getDefaultMiddleware({ serializableCheck: false }).concat(persistMiddleware, syncMiddleware),
 });
 
 export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;
 export const useAppDispatch = () => useDispatch<AppDispatch>();
+export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector;

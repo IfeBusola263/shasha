@@ -1,50 +1,103 @@
-# Welcome to your Expo app 👋
+# Shasha 🛒
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Shasha is a mobile app built with **React Native**, **Expo**, and **TypeScript** to help event planners and homemakers organize their market runs.  
+It uses **file-based routing** and **React Navigation** for a smooth, structured navigation flow.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
+- Create and manage market run lists
+- Save and reuse previous lists
+- Share lists with others (future feature)
+- Organized navigation with **file-based routing**
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 📂 Project Structure
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+shasha/
+├── app/                  # File-based routing directory
+│   ├── index.tsx         # Home screen
+│   ├── market/           # Screens related to market runs
+│   │   ├── index.tsx     # Market list screen
+│   │   ├── [id].tsx      # Single market run detail
+│   └── settings.tsx      # App settings
+├── assets/               # Images, fonts, icons
+├── package.json
+├── tsconfig.json
+└── README.md
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🛠️ Tech Stack
+- **React Native** – Cross-platform mobile development
+- **Expo** – Fast, managed workflow
+- **TypeScript** – Type safety & scalability
+- **React Navigation** – Navigation system with file-based routing
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📦 Installation
 
-## Join the community
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/shasha.git
+cd shasha
+```
 
-Join our community of developers creating universal apps.
+### 2. Install dependencies
+Using Yarn:
+```bash
+yarn install
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## ▶️ Running the App
+
+### Start development server
+```bash
+yarn expo start
+```
+
+### Run on Android
+```bash
+yarn expo run:android
+```
+
+### Run on iOS
+```bash
+yarn expo run:ios
+```
+
+---
+
+## 🧭 Navigation Setup
+
+Shasha uses **Expo Router** for file-based routing with React Navigation under the hood.
+
+**Install required packages**:
+```bash
+yarn add expo-router react-native-safe-area-context react-native-screens react-native-gesture-handler react-native-reanimated react-native-get-random-values
+```
+
+**Enable file-based routing** in `app.json` or `app.config.js`:
+```json
+{
+  "expo": {
+    "plugins": ["expo-router"]
+  }
+}
+```
+
+**Entry point** (`index.js`):
+```ts
+import "expo-router/entry";
+```
+
+---
+
+## 📜 License
+MIT License. See `LICENSE` file for details.
