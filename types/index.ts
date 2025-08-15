@@ -18,6 +18,13 @@ export type MarketList = {
   version?: number;
 };
 
+export type MarketRun = MarketList;
+
 export type ScreenHeaderProps = {
   title: string;
 }
+
+export type PrimaryButtonProps = {
+  label: string;
+  onPress: () => void;
+};

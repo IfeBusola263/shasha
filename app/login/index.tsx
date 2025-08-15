@@ -1,11 +1,12 @@
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
+import AppBackground from "@/components/ui/AppBackground";
+import PrimaryButton from "@/components/ui/PrimaryButton";
 import { colors, Colors } from "@/constants/Colors";
 import useAuth from "@/hooks/useAuth";
 import Entypo from '@expo/vector-icons/Entypo';
-import { ImageBackground } from "expo-image";
 import { useState } from "react";
-import { Pressable, StyleSheet, Text, TextInput } from "react-native";
+import { Pressable, StyleSheet, TextInput } from "react-native";
 
 const LoginScreen = () => {
     const { handleLogin } = useAuth();
@@ -16,11 +17,7 @@ const LoginScreen = () => {
     }
 
     return (
-            <ImageBackground 
-                style={styles.container} 
-                source={require('@/assets/images/shasha.png')}
-                imageStyle={styles.imageStyle}
-            >
+                <AppBackground>
                 <ThemedText type="title" style={styles.title}>Shasha</ThemedText>
                 <ThemedView style={styles.inputContainer}>
                     <TextInput 
@@ -45,10 +42,9 @@ const LoginScreen = () => {
                 </ThemedView>
 
                 {/* Login */}
-                <Pressable style={styles.login} onPress={handleLogin}>
-                    <Text style={styles.loginText}>Login</Text>
-                </Pressable>
-            </ImageBackground>
+               <PrimaryButton label="Login" onPress={handleLogin} />
+                </AppBackground>
+
     )
 }
 
@@ -59,23 +55,6 @@ const styles = StyleSheet.create({
         ...Colors.background,
         flex: 1,
         padding: 16,
-    },
-    container: {
-        flex: 1,
-        justifyContent: 'space-around',
-        alignItems: "center",
-        ...Colors.background,
-        gap: 20,
-        padding: 16,
-        // paddingBottom: '25%',
-        // backgroundColor: 'black'
-        // borderColor: 'black',
-        // borderWidth:10
-    },
-    imageStyle: {
-        // top: -110,
-        right: -90,
-        // height: '80%'
     },
     title: {
         fontFamily: 'IBMBold',
@@ -108,19 +87,4 @@ const styles = StyleSheet.create({
         fontFamily:"IBMMedium",
         color: colors.primaryWhite
     },
-    login: {
-        backgroundColor: colors.primary,
-        width: '100%',
-        paddingHorizontal: 20,
-        paddingVertical: 15,
-        borderRadius: 30,
-        alignItems: 'center',
-        fontFamily: 'IBMMedium',
-        // marginTop: '26%'
-    },
-    loginText: {
-        color: Colors.light.background,
-        fontFamily: 'IBMRegular'
-    }
-
 })

@@ -6,7 +6,7 @@ import { ThemedView } from "./ThemedView";
 const ScreenHeader = ({title}: ScreenHeaderProps) => {
     return (
         <ThemedView style={styles.container}>
-            <ThemedText>{title}</ThemedText>
+            <ThemedText type="title">{title}</ThemedText>
         </ThemedView>
     )
 }
@@ -18,7 +18,8 @@ const styles = StyleSheet.create({
         borderBottomColor: "#e2e2e2",
         borderBottomWidth: 0.5,
         justifyContent: 'center',
-        alignItems: 'center',
+        // alignItems: 'center',
+        fontFamily: 'IBMBold',
         paddingVertical: 16
-    }
+    },
 })

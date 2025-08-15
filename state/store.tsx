@@ -4,11 +4,13 @@ import { configureStore } from '@reduxjs/toolkit';
 import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
 import authReducer from './slices/auth-slice';
 import listsReducer from './slices/lists-slice';
+import marketHistoryReducer from './slices/market-history-slice';
 
 export const store = configureStore({
   reducer: {
     auth: authReducer,
     lists: listsReducer,
+    marketHistory: marketHistoryReducer
   },
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({ serializableCheck: false }).concat(persistMiddleware, syncMiddleware),

@@ -1,0 +1,3458 @@
+[
+    {
+        "id": 1,
+        "date": "2024-11-27",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Rice",
+            "Pepper",
+            "Maize",
+            "Beans"
+        ],
+        "totalAmount": 7124
+    },
+    {
+        "id": 2,
+        "date": "2024-12-25",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Sugar",
+            "Pepper",
+            "Rice",
+            "Garri"
+        ],
+        "totalAmount": 47592
+    },
+    {
+        "id": 3,
+        "date": "2024-09-21",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Milk"
+        ],
+        "totalAmount": 34583
+    },
+    {
+        "id": 4,
+        "date": "2024-01-22",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Onions"
+        ],
+        "totalAmount": 40837
+    },
+    {
+        "id": 5,
+        "date": "2023-12-02",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Fish",
+            "Garri"
+        ],
+        "totalAmount": 28193
+    },
+    {
+        "id": 6,
+        "date": "2024-08-08",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Plantain",
+            "Spices",
+            "Onions"
+        ],
+        "totalAmount": 13718
+    },
+    {
+        "id": 7,
+        "date": "2024-02-09",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Salt",
+            "Fish"
+        ],
+        "totalAmount": 29776
+    },
+    {
+        "id": 8,
+        "date": "2024-07-15",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Beef",
+            "Bread",
+            "Tomatoes"
+        ],
+        "totalAmount": 10028
+    },
+    {
+        "id": 9,
+        "date": "2023-08-21",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Oil"
+        ],
+        "totalAmount": 25205
+    },
+    {
+        "id": 10,
+        "date": "2025-02-25",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Rice",
+            "Oil",
+            "Spices",
+            "Beans"
+        ],
+        "totalAmount": 8913
+    },
+    {
+        "id": 11,
+        "date": "2024-01-08",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Rice"
+        ],
+        "totalAmount": 37707
+    },
+    {
+        "id": 12,
+        "date": "2025-05-27",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Salt",
+            "Oil",
+            "Fish"
+        ],
+        "totalAmount": 14891
+    },
+    {
+        "id": 13,
+        "date": "2023-12-20",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Plantain",
+            "Tomatoes",
+            "Onions",
+            "Maize",
+            "Oil"
+        ],
+        "totalAmount": 49293
+    },
+    {
+        "id": 14,
+        "date": "2024-09-28",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Beans",
+            "Salt",
+            "Plantain"
+        ],
+        "totalAmount": 42556
+    },
+    {
+        "id": 15,
+        "date": "2025-02-22",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Chicken"
+        ],
+        "totalAmount": 18711
+    },
+    {
+        "id": 16,
+        "date": "2024-03-22",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Beef",
+            "Yam",
+            "Fish"
+        ],
+        "totalAmount": 25676
+    },
+    {
+        "id": 17,
+        "date": "2024-09-28",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Maize"
+        ],
+        "totalAmount": 22213
+    },
+    {
+        "id": 18,
+        "date": "2023-12-27",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Pepper",
+            "Oil",
+            "Chicken"
+        ],
+        "totalAmount": 23421
+    },
+    {
+        "id": 19,
+        "date": "2024-01-29",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Plantain",
+            "Salt"
+        ],
+        "totalAmount": 46138
+    },
+    {
+        "id": 20,
+        "date": "2023-09-02",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Beans",
+            "Fish",
+            "Spices"
+        ],
+        "totalAmount": 5291
+    },
+    {
+        "id": 21,
+        "date": "2024-10-28",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Garri",
+            "Beans"
+        ],
+        "totalAmount": 29348
+    },
+    {
+        "id": 22,
+        "date": "2023-10-01",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Milk",
+            "Rice",
+            "Oil"
+        ],
+        "totalAmount": 11299
+    },
+    {
+        "id": 23,
+        "date": "2024-04-22",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Sugar",
+            "Chicken",
+            "Fish"
+        ],
+        "totalAmount": 43634
+    },
+    {
+        "id": 24,
+        "date": "2025-03-15",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Beef",
+            "Oil"
+        ],
+        "totalAmount": 40388
+    },
+    {
+        "id": 25,
+        "date": "2025-01-11",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Beef",
+            "Yam",
+            "Maize",
+            "Spices"
+        ],
+        "totalAmount": 31850
+    },
+    {
+        "id": 26,
+        "date": "2025-04-07",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Salt",
+            "Maize",
+            "Bread",
+            "Oil",
+            "Chicken"
+        ],
+        "totalAmount": 2495
+    },
+    {
+        "id": 27,
+        "date": "2025-01-24",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Chicken",
+            "Pepper",
+            "Maize",
+            "Beef"
+        ],
+        "totalAmount": 23613
+    },
+    {
+        "id": 28,
+        "date": "2023-10-22",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Milk",
+            "Beans",
+            "Rice",
+            "Garri",
+            "Beef"
+        ],
+        "totalAmount": 26797
+    },
+    {
+        "id": 29,
+        "date": "2025-04-16",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Maize",
+            "Milk",
+            "Garri",
+            "Spices"
+        ],
+        "totalAmount": 6749
+    },
+    {
+        "id": 30,
+        "date": "2025-04-08",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Beans",
+            "Maize",
+            "Beef",
+            "Yam"
+        ],
+        "totalAmount": 33337
+    },
+    {
+        "id": 31,
+        "date": "2023-11-04",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Spices",
+            "Bread"
+        ],
+        "totalAmount": 4805
+    },
+    {
+        "id": 32,
+        "date": "2024-06-01",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Milk",
+            "Sugar"
+        ],
+        "totalAmount": 14924
+    },
+    {
+        "id": 33,
+        "date": "2024-01-18",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Beef",
+            "Beans",
+            "Onions",
+            "Yam"
+        ],
+        "totalAmount": 30676
+    },
+    {
+        "id": 34,
+        "date": "2024-04-30",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Oil",
+            "Bread"
+        ],
+        "totalAmount": 17874
+    },
+    {
+        "id": 35,
+        "date": "2024-07-18",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Oil",
+            "Cassava"
+        ],
+        "totalAmount": 25336
+    },
+    {
+        "id": 36,
+        "date": "2025-01-25",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Oil",
+            "Sugar",
+            "Salt",
+            "Milk",
+            "Spices"
+        ],
+        "totalAmount": 45809
+    },
+    {
+        "id": 37,
+        "date": "2023-09-16",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Beef",
+            "Beans",
+            "Bread",
+            "Rice",
+            "Onions"
+        ],
+        "totalAmount": 43875
+    },
+    {
+        "id": 38,
+        "date": "2025-02-05",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Beef",
+            "Eggs",
+            "Plantain",
+            "Maize"
+        ],
+        "totalAmount": 28762
+    },
+    {
+        "id": 39,
+        "date": "2023-09-04",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Chicken",
+            "Eggs"
+        ],
+        "totalAmount": 12363
+    },
+    {
+        "id": 40,
+        "date": "2024-07-01",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Beans",
+            "Pepper"
+        ],
+        "totalAmount": 7981
+    },
+    {
+        "id": 41,
+        "date": "2025-07-01",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Plantain",
+            "Yam",
+            "Maize",
+            "Chicken",
+            "Beans"
+        ],
+        "totalAmount": 43807
+    },
+    {
+        "id": 42,
+        "date": "2024-06-04",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Onions",
+            "Sugar"
+        ],
+        "totalAmount": 12852
+    },
+    {
+        "id": 43,
+        "date": "2024-09-03",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Milk",
+            "Tomatoes"
+        ],
+        "totalAmount": 35480
+    },
+    {
+        "id": 44,
+        "date": "2023-09-30",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Chicken",
+            "Garri",
+            "Maize",
+            "Plantain"
+        ],
+        "totalAmount": 3742
+    },
+    {
+        "id": 45,
+        "date": "2024-09-17",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Cassava",
+            "Milk",
+            "Chicken",
+            "Eggs"
+        ],
+        "totalAmount": 9897
+    },
+    {
+        "id": 46,
+        "date": "2025-04-25",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Pepper",
+            "Fish",
+            "Sugar",
+            "Plantain"
+        ],
+        "totalAmount": 43171
+    },
+    {
+        "id": 47,
+        "date": "2025-01-02",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Beef",
+            "Oil"
+        ],
+        "totalAmount": 25722
+    },
+    {
+        "id": 48,
+        "date": "2024-02-02",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Maize",
+            "Plantain",
+            "Fish",
+            "Beans"
+        ],
+        "totalAmount": 2800
+    },
+    {
+        "id": 49,
+        "date": "2025-07-21",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Maize",
+            "Beans",
+            "Garri",
+            "Plantain"
+        ],
+        "totalAmount": 33205
+    },
+    {
+        "id": 50,
+        "date": "2024-01-17",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Tomatoes",
+            "Salt",
+            "Yam"
+        ],
+        "totalAmount": 8328
+    },
+    {
+        "id": 51,
+        "date": "2025-06-17",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Pepper",
+            "Oil"
+        ],
+        "totalAmount": 14517
+    },
+    {
+        "id": 52,
+        "date": "2024-08-05",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Maize",
+            "Garri",
+            "Tomatoes"
+        ],
+        "totalAmount": 3617
+    },
+    {
+        "id": 53,
+        "date": "2023-12-17",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Yam",
+            "Onions",
+            "Rice",
+            "Eggs",
+            "Maize"
+        ],
+        "totalAmount": 2754
+    },
+    {
+        "id": 54,
+        "date": "2024-11-12",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Milk",
+            "Beans",
+            "Onions",
+            "Fish",
+            "Yam"
+        ],
+        "totalAmount": 41180
+    },
+    {
+        "id": 55,
+        "date": "2023-11-03",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Tomatoes",
+            "Eggs",
+            "Fish"
+        ],
+        "totalAmount": 43562
+    },
+    {
+        "id": 56,
+        "date": "2024-03-05",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Cassava",
+            "Chicken",
+            "Garri",
+            "Eggs",
+            "Rice"
+        ],
+        "totalAmount": 29567
+    },
+    {
+        "id": 57,
+        "date": "2023-11-18",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Beans",
+            "Bread",
+            "Rice",
+            "Tomatoes",
+            "Chicken"
+        ],
+        "totalAmount": 37230
+    },
+    {
+        "id": 58,
+        "date": "2024-06-27",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Garri",
+            "Rice",
+            "Bread",
+            "Pepper",
+            "Beans"
+        ],
+        "totalAmount": 2183
+    },
+    {
+        "id": 59,
+        "date": "2025-08-06",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Maize",
+            "Tomatoes",
+            "Cassava",
+            "Pepper",
+            "Milk"
+        ],
+        "totalAmount": 14432
+    },
+    {
+        "id": 60,
+        "date": "2024-02-03",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Yam",
+            "Oil",
+            "Sugar",
+            "Salt",
+            "Pepper"
+        ],
+        "totalAmount": 11507
+    },
+    {
+        "id": 61,
+        "date": "2025-03-10",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Beef",
+            "Plantain",
+            "Bread"
+        ],
+        "totalAmount": 11370
+    },
+    {
+        "id": 62,
+        "date": "2023-10-17",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Garri",
+            "Beans"
+        ],
+        "totalAmount": 49588
+    },
+    {
+        "id": 63,
+        "date": "2024-01-13",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Spices",
+            "Maize",
+            "Salt",
+            "Milk",
+            "Beef"
+        ],
+        "totalAmount": 26342
+    },
+    {
+        "id": 64,
+        "date": "2024-10-03",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Maize",
+            "Salt",
+            "Yam"
+        ],
+        "totalAmount": 47908
+    },
+    {
+        "id": 65,
+        "date": "2025-06-07",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Salt",
+            "Fish"
+        ],
+        "totalAmount": 35846
+    },
+    {
+        "id": 66,
+        "date": "2023-10-12",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Rice",
+            "Chicken",
+            "Onions",
+            "Beans",
+            "Bread"
+        ],
+        "totalAmount": 12050
+    },
+    {
+        "id": 67,
+        "date": "2024-03-21",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Onions",
+            "Sugar",
+            "Spices",
+            "Yam",
+            "Rice"
+        ],
+        "totalAmount": 43438
+    },
+    {
+        "id": 68,
+        "date": "2024-03-26",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Beef",
+            "Onions"
+        ],
+        "totalAmount": 39254
+    },
+    {
+        "id": 69,
+        "date": "2024-06-16",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Beef",
+            "Milk",
+            "Spices",
+            "Chicken"
+        ],
+        "totalAmount": 27962
+    },
+    {
+        "id": 70,
+        "date": "2023-11-20",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Cassava",
+            "Onions"
+        ],
+        "totalAmount": 4957
+    },
+    {
+        "id": 71,
+        "date": "2025-05-10",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Oil"
+        ],
+        "totalAmount": 44818
+    },
+    {
+        "id": 72,
+        "date": "2025-04-17",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Beef",
+            "Plantain",
+            "Tomatoes"
+        ],
+        "totalAmount": 34270
+    },
+    {
+        "id": 73,
+        "date": "2024-08-01",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Beans",
+            "Onions",
+            "Yam",
+            "Sugar"
+        ],
+        "totalAmount": 17792
+    },
+    {
+        "id": 74,
+        "date": "2023-09-18",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Maize",
+            "Chicken"
+        ],
+        "totalAmount": 49825
+    },
+    {
+        "id": 75,
+        "date": "2023-12-24",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Chicken",
+            "Spices",
+            "Rice"
+        ],
+        "totalAmount": 34619
+    },
+    {
+        "id": 76,
+        "date": "2024-10-30",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Cassava",
+            "Eggs",
+            "Onions"
+        ],
+        "totalAmount": 39761
+    },
+    {
+        "id": 77,
+        "date": "2024-12-16",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Milk",
+            "Garri",
+            "Eggs",
+            "Spices"
+        ],
+        "totalAmount": 8239
+    },
+    {
+        "id": 78,
+        "date": "2024-06-14",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Yam"
+        ],
+        "totalAmount": 22935
+    },
+    {
+        "id": 79,
+        "date": "2024-03-06",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Beef",
+            "Garri",
+            "Milk"
+        ],
+        "totalAmount": 6609
+    },
+    {
+        "id": 80,
+        "date": "2025-06-23",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Oil",
+            "Garri"
+        ],
+        "totalAmount": 19708
+    },
+    {
+        "id": 81,
+        "date": "2025-01-17",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Garri",
+            "Salt",
+            "Yam"
+        ],
+        "totalAmount": 47652
+    },
+    {
+        "id": 82,
+        "date": "2025-02-05",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Garri",
+            "Spices",
+            "Onions"
+        ],
+        "totalAmount": 7862
+    },
+    {
+        "id": 83,
+        "date": "2024-10-06",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Onions",
+            "Maize",
+            "Eggs",
+            "Pepper"
+        ],
+        "totalAmount": 17994
+    },
+    {
+        "id": 84,
+        "date": "2024-02-14",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Bread",
+            "Tomatoes",
+            "Plantain",
+            "Garri",
+            "Rice"
+        ],
+        "totalAmount": 39544
+    },
+    {
+        "id": 85,
+        "date": "2025-05-08",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Salt",
+            "Milk",
+            "Garri",
+            "Chicken",
+            "Beef"
+        ],
+        "totalAmount": 35971
+    },
+    {
+        "id": 86,
+        "date": "2024-11-25",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Sugar",
+            "Chicken",
+            "Onions",
+            "Beans"
+        ],
+        "totalAmount": 11173
+    },
+    {
+        "id": 87,
+        "date": "2024-11-23",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Spices",
+            "Garri",
+            "Tomatoes",
+            "Eggs",
+            "Beef"
+        ],
+        "totalAmount": 38080
+    },
+    {
+        "id": 88,
+        "date": "2025-03-17",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Bread",
+            "Eggs",
+            "Salt"
+        ],
+        "totalAmount": 38949
+    },
+    {
+        "id": 89,
+        "date": "2025-04-08",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Rice"
+        ],
+        "totalAmount": 48209
+    },
+    {
+        "id": 90,
+        "date": "2025-02-05",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Salt",
+            "Oil"
+        ],
+        "totalAmount": 31440
+    },
+    {
+        "id": 91,
+        "date": "2025-02-15",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Onions",
+            "Salt"
+        ],
+        "totalAmount": 32996
+    },
+    {
+        "id": 92,
+        "date": "2025-08-04",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Oil",
+            "Milk"
+        ],
+        "totalAmount": 16871
+    },
+    {
+        "id": 93,
+        "date": "2024-06-08",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Beef",
+            "Oil",
+            "Yam",
+            "Garri",
+            "Sugar"
+        ],
+        "totalAmount": 29863
+    },
+    {
+        "id": 94,
+        "date": "2024-01-21",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Eggs",
+            "Onions",
+            "Bread"
+        ],
+        "totalAmount": 2293
+    },
+    {
+        "id": 95,
+        "date": "2024-06-30",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Oil",
+            "Beans"
+        ],
+        "totalAmount": 49036
+    },
+    {
+        "id": 96,
+        "date": "2024-05-01",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Pepper",
+            "Yam"
+        ],
+        "totalAmount": 48042
+    },
+    {
+        "id": 97,
+        "date": "2023-11-27",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Oil"
+        ],
+        "totalAmount": 40483
+    },
+    {
+        "id": 98,
+        "date": "2024-04-27",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Spices",
+            "Maize",
+            "Bread"
+        ],
+        "totalAmount": 36815
+    },
+    {
+        "id": 99,
+        "date": "2024-02-28",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Milk",
+            "Fish",
+            "Tomatoes",
+            "Spices"
+        ],
+        "totalAmount": 16568
+    },
+    {
+        "id": 100,
+        "date": "2024-10-09",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Spices",
+            "Sugar",
+            "Yam",
+            "Pepper",
+            "Fish"
+        ],
+        "totalAmount": 7988
+    },
+    {
+        "id": 101,
+        "date": "2023-11-15",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Beans",
+            "Spices",
+            "Plantain",
+            "Beef",
+            "Cassava"
+        ],
+        "totalAmount": 29101
+    },
+    {
+        "id": 102,
+        "date": "2025-04-01",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Yam",
+            "Onions"
+        ],
+        "totalAmount": 35906
+    },
+    {
+        "id": 103,
+        "date": "2024-10-16",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Eggs",
+            "Plantain",
+            "Fish"
+        ],
+        "totalAmount": 31945
+    },
+    {
+        "id": 104,
+        "date": "2024-08-28",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Rice",
+            "Bread",
+            "Garri"
+        ],
+        "totalAmount": 29819
+    },
+    {
+        "id": 105,
+        "date": "2025-05-27",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Yam",
+            "Sugar"
+        ],
+        "totalAmount": 25188
+    },
+    {
+        "id": 106,
+        "date": "2024-05-24",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Spices",
+            "Onions",
+            "Salt"
+        ],
+        "totalAmount": 31946
+    },
+    {
+        "id": 107,
+        "date": "2024-12-07",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Chicken",
+            "Beans"
+        ],
+        "totalAmount": 31447
+    },
+    {
+        "id": 108,
+        "date": "2024-10-02",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Rice",
+            "Oil",
+            "Milk"
+        ],
+        "totalAmount": 23989
+    },
+    {
+        "id": 109,
+        "date": "2025-02-20",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Bread",
+            "Rice",
+            "Plantain",
+            "Garri"
+        ],
+        "totalAmount": 38573
+    },
+    {
+        "id": 110,
+        "date": "2024-10-13",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Bread",
+            "Tomatoes",
+            "Chicken",
+            "Garri"
+        ],
+        "totalAmount": 46067
+    },
+    {
+        "id": 111,
+        "date": "2025-06-27",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Rice",
+            "Pepper",
+            "Beef"
+        ],
+        "totalAmount": 12577
+    },
+    {
+        "id": 112,
+        "date": "2023-12-01",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Maize",
+            "Bread"
+        ],
+        "totalAmount": 2409
+    },
+    {
+        "id": 113,
+        "date": "2024-01-04",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Salt"
+        ],
+        "totalAmount": 2001
+    },
+    {
+        "id": 114,
+        "date": "2025-06-28",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Garri",
+            "Spices"
+        ],
+        "totalAmount": 11900
+    },
+    {
+        "id": 115,
+        "date": "2023-11-10",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Spices"
+        ],
+        "totalAmount": 28923
+    },
+    {
+        "id": 116,
+        "date": "2024-02-27",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Sugar"
+        ],
+        "totalAmount": 9534
+    },
+    {
+        "id": 117,
+        "date": "2025-06-24",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Milk",
+            "Garri"
+        ],
+        "totalAmount": 32342
+    },
+    {
+        "id": 118,
+        "date": "2024-11-30",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Bread",
+            "Chicken",
+            "Plantain"
+        ],
+        "totalAmount": 22896
+    },
+    {
+        "id": 119,
+        "date": "2024-06-29",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Rice",
+            "Milk",
+            "Onions",
+            "Oil",
+            "Sugar"
+        ],
+        "totalAmount": 18684
+    },
+    {
+        "id": 120,
+        "date": "2023-11-08",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Garri",
+            "Plantain",
+            "Fish",
+            "Sugar"
+        ],
+        "totalAmount": 25136
+    },
+    {
+        "id": 121,
+        "date": "2024-03-12",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Beef",
+            "Beans",
+            "Fish",
+            "Yam"
+        ],
+        "totalAmount": 14573
+    },
+    {
+        "id": 122,
+        "date": "2025-04-04",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Fish",
+            "Chicken"
+        ],
+        "totalAmount": 29295
+    },
+    {
+        "id": 123,
+        "date": "2024-04-05",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Beans",
+            "Pepper"
+        ],
+        "totalAmount": 17395
+    },
+    {
+        "id": 124,
+        "date": "2024-07-10",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Salt",
+            "Onions",
+            "Plantain",
+            "Tomatoes",
+            "Spices"
+        ],
+        "totalAmount": 23464
+    },
+    {
+        "id": 125,
+        "date": "2024-11-23",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Pepper",
+            "Milk",
+            "Oil",
+            "Bread"
+        ],
+        "totalAmount": 11287
+    },
+    {
+        "id": 126,
+        "date": "2023-09-18",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Onions",
+            "Bread",
+            "Fish",
+            "Rice",
+            "Yam"
+        ],
+        "totalAmount": 16569
+    },
+    {
+        "id": 127,
+        "date": "2025-01-14",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Spices",
+            "Eggs",
+            "Garri",
+            "Tomatoes"
+        ],
+        "totalAmount": 21494
+    },
+    {
+        "id": 128,
+        "date": "2024-12-20",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Beans",
+            "Fish",
+            "Cassava",
+            "Yam",
+            "Pepper"
+        ],
+        "totalAmount": 11272
+    },
+    {
+        "id": 129,
+        "date": "2023-11-26",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Cassava",
+            "Salt",
+            "Beef",
+            "Beans",
+            "Rice"
+        ],
+        "totalAmount": 47485
+    },
+    {
+        "id": 130,
+        "date": "2024-11-27",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Bread",
+            "Cassava"
+        ],
+        "totalAmount": 9663
+    },
+    {
+        "id": 131,
+        "date": "2024-06-21",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Chicken",
+            "Onions",
+            "Tomatoes",
+            "Beef"
+        ],
+        "totalAmount": 44566
+    },
+    {
+        "id": 132,
+        "date": "2023-09-25",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Pepper",
+            "Bread",
+            "Garri"
+        ],
+        "totalAmount": 45873
+    },
+    {
+        "id": 133,
+        "date": "2025-01-14",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Eggs",
+            "Plantain"
+        ],
+        "totalAmount": 19726
+    },
+    {
+        "id": 134,
+        "date": "2025-08-04",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Garri",
+            "Onions"
+        ],
+        "totalAmount": 20016
+    },
+    {
+        "id": 135,
+        "date": "2025-05-29",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Fish",
+            "Maize",
+            "Plantain",
+            "Garri",
+            "Beans"
+        ],
+        "totalAmount": 23900
+    },
+    {
+        "id": 136,
+        "date": "2024-11-28",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Beef",
+            "Onions"
+        ],
+        "totalAmount": 10100
+    },
+    {
+        "id": 137,
+        "date": "2024-09-21",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Plantain"
+        ],
+        "totalAmount": 11937
+    },
+    {
+        "id": 138,
+        "date": "2024-05-16",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Beef",
+            "Salt",
+            "Tomatoes",
+            "Chicken",
+            "Onions"
+        ],
+        "totalAmount": 46824
+    },
+    {
+        "id": 139,
+        "date": "2024-01-06",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Salt",
+            "Cassava",
+            "Garri"
+        ],
+        "totalAmount": 16483
+    },
+    {
+        "id": 140,
+        "date": "2024-05-14",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Yam",
+            "Sugar",
+            "Chicken"
+        ],
+        "totalAmount": 48450
+    },
+    {
+        "id": 141,
+        "date": "2024-05-22",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Maize",
+            "Pepper",
+            "Chicken"
+        ],
+        "totalAmount": 38762
+    },
+    {
+        "id": 142,
+        "date": "2024-05-10",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Chicken",
+            "Oil",
+            "Sugar"
+        ],
+        "totalAmount": 30284
+    },
+    {
+        "id": 143,
+        "date": "2025-01-21",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Chicken",
+            "Yam",
+            "Sugar",
+            "Salt"
+        ],
+        "totalAmount": 20152
+    },
+    {
+        "id": 144,
+        "date": "2024-12-03",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Salt",
+            "Eggs"
+        ],
+        "totalAmount": 15522
+    },
+    {
+        "id": 145,
+        "date": "2023-11-27",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Spices",
+            "Pepper",
+            "Oil"
+        ],
+        "totalAmount": 33741
+    },
+    {
+        "id": 146,
+        "date": "2024-01-01",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Bread",
+            "Beans",
+            "Fish"
+        ],
+        "totalAmount": 13655
+    },
+    {
+        "id": 147,
+        "date": "2023-08-31",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Garri",
+            "Salt",
+            "Spices"
+        ],
+        "totalAmount": 25255
+    },
+    {
+        "id": 148,
+        "date": "2025-02-10",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Milk",
+            "Rice",
+            "Garri",
+            "Chicken"
+        ],
+        "totalAmount": 31473
+    },
+    {
+        "id": 149,
+        "date": "2023-09-24",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Maize"
+        ],
+        "totalAmount": 16372
+    },
+    {
+        "id": 150,
+        "date": "2023-12-20",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Beef",
+            "Salt"
+        ],
+        "totalAmount": 44419
+    },
+    {
+        "id": 151,
+        "date": "2024-07-23",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Beans",
+            "Fish",
+            "Eggs",
+            "Plantain",
+            "Garri"
+        ],
+        "totalAmount": 33306
+    },
+    {
+        "id": 152,
+        "date": "2025-06-21",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Milk",
+            "Fish",
+            "Rice",
+            "Bread",
+            "Cassava"
+        ],
+        "totalAmount": 36498
+    },
+    {
+        "id": 153,
+        "date": "2025-03-31",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Onions"
+        ],
+        "totalAmount": 24810
+    },
+    {
+        "id": 154,
+        "date": "2024-03-25",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Oil",
+            "Cassava",
+            "Sugar",
+            "Yam"
+        ],
+        "totalAmount": 37930
+    },
+    {
+        "id": 155,
+        "date": "2024-09-19",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Beans",
+            "Onions",
+            "Sugar",
+            "Chicken",
+            "Milk"
+        ],
+        "totalAmount": 34077
+    },
+    {
+        "id": 156,
+        "date": "2023-10-05",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Beans",
+            "Maize",
+            "Plantain",
+            "Tomatoes",
+            "Chicken"
+        ],
+        "totalAmount": 2142
+    },
+    {
+        "id": 157,
+        "date": "2024-09-25",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Milk",
+            "Onions",
+            "Rice"
+        ],
+        "totalAmount": 5594
+    },
+    {
+        "id": 158,
+        "date": "2024-04-12",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Pepper"
+        ],
+        "totalAmount": 40145
+    },
+    {
+        "id": 159,
+        "date": "2023-09-03",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Cassava",
+            "Milk",
+            "Rice",
+            "Salt"
+        ],
+        "totalAmount": 17051
+    },
+    {
+        "id": 160,
+        "date": "2023-09-27",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Sugar",
+            "Rice"
+        ],
+        "totalAmount": 30051
+    },
+    {
+        "id": 161,
+        "date": "2024-10-29",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Spices",
+            "Rice",
+            "Plantain"
+        ],
+        "totalAmount": 31657
+    },
+    {
+        "id": 162,
+        "date": "2025-06-11",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Beef",
+            "Pepper",
+            "Bread",
+            "Garri"
+        ],
+        "totalAmount": 22527
+    },
+    {
+        "id": 163,
+        "date": "2025-01-27",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Eggs",
+            "Onions",
+            "Pepper"
+        ],
+        "totalAmount": 17514
+    },
+    {
+        "id": 164,
+        "date": "2025-04-06",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Spices",
+            "Beans",
+            "Tomatoes"
+        ],
+        "totalAmount": 35692
+    },
+    {
+        "id": 165,
+        "date": "2024-04-01",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Fish",
+            "Milk",
+            "Spices",
+            "Plantain",
+            "Onions"
+        ],
+        "totalAmount": 11537
+    },
+    {
+        "id": 166,
+        "date": "2024-02-10",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Rice",
+            "Oil"
+        ],
+        "totalAmount": 2700
+    },
+    {
+        "id": 167,
+        "date": "2025-02-14",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Bread",
+            "Fish"
+        ],
+        "totalAmount": 42157
+    },
+    {
+        "id": 168,
+        "date": "2024-10-18",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Oil",
+            "Yam",
+            "Plantain",
+            "Maize"
+        ],
+        "totalAmount": 2405
+    },
+    {
+        "id": 169,
+        "date": "2025-01-13",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Garri",
+            "Beans",
+            "Yam",
+            "Eggs",
+            "Oil"
+        ],
+        "totalAmount": 38241
+    },
+    {
+        "id": 170,
+        "date": "2025-06-23",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Oil"
+        ],
+        "totalAmount": 8837
+    },
+    {
+        "id": 171,
+        "date": "2024-02-03",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Spices",
+            "Pepper",
+            "Yam"
+        ],
+        "totalAmount": 42536
+    },
+    {
+        "id": 172,
+        "date": "2024-09-28",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Rice",
+            "Pepper"
+        ],
+        "totalAmount": 36456
+    },
+    {
+        "id": 173,
+        "date": "2024-11-19",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Fish",
+            "Maize"
+        ],
+        "totalAmount": 33115
+    },
+    {
+        "id": 174,
+        "date": "2025-07-18",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Milk",
+            "Yam",
+            "Chicken",
+            "Fish"
+        ],
+        "totalAmount": 7202
+    },
+    {
+        "id": 175,
+        "date": "2024-08-24",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Garri",
+            "Pepper",
+            "Maize",
+            "Tomatoes"
+        ],
+        "totalAmount": 5947
+    },
+    {
+        "id": 176,
+        "date": "2023-11-16",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Bread",
+            "Tomatoes"
+        ],
+        "totalAmount": 10518
+    },
+    {
+        "id": 177,
+        "date": "2024-09-19",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Fish",
+            "Beans",
+            "Onions",
+            "Beef",
+            "Maize"
+        ],
+        "totalAmount": 10966
+    },
+    {
+        "id": 178,
+        "date": "2024-06-06",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Sugar"
+        ],
+        "totalAmount": 16980
+    },
+    {
+        "id": 179,
+        "date": "2024-02-19",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Beans",
+            "Yam",
+            "Milk",
+            "Fish"
+        ],
+        "totalAmount": 29069
+    },
+    {
+        "id": 180,
+        "date": "2023-11-06",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Spices",
+            "Garri",
+            "Oil",
+            "Eggs"
+        ],
+        "totalAmount": 43710
+    },
+    {
+        "id": 181,
+        "date": "2025-01-13",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Yam",
+            "Maize",
+            "Bread",
+            "Fish"
+        ],
+        "totalAmount": 12500
+    },
+    {
+        "id": 182,
+        "date": "2025-02-17",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Beans",
+            "Yam"
+        ],
+        "totalAmount": 35829
+    },
+    {
+        "id": 183,
+        "date": "2024-11-26",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Spices",
+            "Chicken",
+            "Bread",
+            "Oil"
+        ],
+        "totalAmount": 22648
+    },
+    {
+        "id": 184,
+        "date": "2024-12-10",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Milk",
+            "Oil",
+            "Bread",
+            "Garri",
+            "Beef"
+        ],
+        "totalAmount": 42381
+    },
+    {
+        "id": 185,
+        "date": "2025-02-01",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Milk",
+            "Chicken",
+            "Pepper",
+            "Cassava",
+            "Beef"
+        ],
+        "totalAmount": 37766
+    },
+    {
+        "id": 186,
+        "date": "2024-09-09",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Yam",
+            "Salt"
+        ],
+        "totalAmount": 18213
+    },
+    {
+        "id": 187,
+        "date": "2024-02-12",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Fish",
+            "Spices",
+            "Oil",
+            "Maize"
+        ],
+        "totalAmount": 7145
+    },
+    {
+        "id": 188,
+        "date": "2024-09-28",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Beans",
+            "Spices",
+            "Rice"
+        ],
+        "totalAmount": 49291
+    },
+    {
+        "id": 189,
+        "date": "2023-12-03",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Plantain"
+        ],
+        "totalAmount": 28500
+    },
+    {
+        "id": 190,
+        "date": "2023-10-24",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Oil",
+            "Sugar",
+            "Spices",
+            "Yam"
+        ],
+        "totalAmount": 25951
+    },
+    {
+        "id": 191,
+        "date": "2024-03-27",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Beef",
+            "Milk"
+        ],
+        "totalAmount": 33482
+    },
+    {
+        "id": 192,
+        "date": "2025-07-20",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Yam",
+            "Salt"
+        ],
+        "totalAmount": 12928
+    },
+    {
+        "id": 193,
+        "date": "2024-02-11",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Cassava",
+            "Sugar",
+            "Beef",
+            "Maize",
+            "Spices"
+        ],
+        "totalAmount": 27468
+    },
+    {
+        "id": 194,
+        "date": "2023-10-14",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Beef",
+            "Rice",
+            "Tomatoes",
+            "Chicken"
+        ],
+        "totalAmount": 32093
+    },
+    {
+        "id": 195,
+        "date": "2024-04-26",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Oil",
+            "Maize"
+        ],
+        "totalAmount": 49527
+    },
+    {
+        "id": 196,
+        "date": "2025-07-20",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Maize",
+            "Beans",
+            "Chicken",
+            "Fish"
+        ],
+        "totalAmount": 17230
+    },
+    {
+        "id": 197,
+        "date": "2024-05-09",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Maize",
+            "Plantain",
+            "Oil"
+        ],
+        "totalAmount": 47107
+    },
+    {
+        "id": 198,
+        "date": "2025-05-21",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Beef",
+            "Chicken",
+            "Oil",
+            "Bread",
+            "Pepper"
+        ],
+        "totalAmount": 10270
+    },
+    {
+        "id": 199,
+        "date": "2024-04-09",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Bread"
+        ],
+        "totalAmount": 19364
+    },
+    {
+        "id": 200,
+        "date": "2025-04-23",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Rice",
+            "Plantain",
+            "Beef"
+        ],
+        "totalAmount": 28246
+    },
+    {
+        "id": 201,
+        "date": "2023-08-31",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Onions",
+            "Oil"
+        ],
+        "totalAmount": 20582
+    },
+    {
+        "id": 202,
+        "date": "2024-07-24",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Milk",
+            "Garri",
+            "Bread",
+            "Beef",
+            "Pepper"
+        ],
+        "totalAmount": 23181
+    },
+    {
+        "id": 203,
+        "date": "2025-07-20",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Beans",
+            "Rice",
+            "Cassava",
+            "Fish",
+            "Onions"
+        ],
+        "totalAmount": 21375
+    },
+    {
+        "id": 204,
+        "date": "2024-01-03",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Bread",
+            "Beef",
+            "Plantain",
+            "Salt"
+        ],
+        "totalAmount": 48314
+    },
+    {
+        "id": 205,
+        "date": "2024-10-04",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Garri",
+            "Beef",
+            "Oil"
+        ],
+        "totalAmount": 38304
+    },
+    {
+        "id": 206,
+        "date": "2025-01-26",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Tomatoes",
+            "Bread",
+            "Fish",
+            "Rice"
+        ],
+        "totalAmount": 22311
+    },
+    {
+        "id": 207,
+        "date": "2025-07-05",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Salt",
+            "Pepper",
+            "Milk",
+            "Yam",
+            "Garri"
+        ],
+        "totalAmount": 49585
+    },
+    {
+        "id": 208,
+        "date": "2024-05-04",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Garri",
+            "Pepper",
+            "Plantain",
+            "Tomatoes",
+            "Chicken"
+        ],
+        "totalAmount": 27041
+    },
+    {
+        "id": 209,
+        "date": "2024-10-10",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Milk",
+            "Beans"
+        ],
+        "totalAmount": 10026
+    },
+    {
+        "id": 210,
+        "date": "2024-07-03",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Salt",
+            "Beans",
+            "Eggs",
+            "Yam"
+        ],
+        "totalAmount": 8718
+    },
+    {
+        "id": 211,
+        "date": "2024-12-31",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Yam",
+            "Bread",
+            "Oil",
+            "Plantain",
+            "Beans"
+        ],
+        "totalAmount": 20085
+    },
+    {
+        "id": 212,
+        "date": "2025-05-18",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Spices",
+            "Plantain",
+            "Bread"
+        ],
+        "totalAmount": 8284
+    },
+    {
+        "id": 213,
+        "date": "2024-02-06",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Tomatoes",
+            "Salt",
+            "Yam"
+        ],
+        "totalAmount": 30115
+    },
+    {
+        "id": 214,
+        "date": "2023-10-15",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Pepper"
+        ],
+        "totalAmount": 12077
+    },
+    {
+        "id": 215,
+        "date": "2024-06-30",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Fish",
+            "Salt",
+            "Beans",
+            "Spices",
+            "Pepper"
+        ],
+        "totalAmount": 7333
+    },
+    {
+        "id": 216,
+        "date": "2024-01-09",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Maize"
+        ],
+        "totalAmount": 27468
+    },
+    {
+        "id": 217,
+        "date": "2023-08-25",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Garri",
+            "Milk",
+            "Tomatoes",
+            "Eggs"
+        ],
+        "totalAmount": 3833
+    },
+    {
+        "id": 218,
+        "date": "2024-11-03",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Oil",
+            "Milk",
+            "Rice",
+            "Beef",
+            "Yam"
+        ],
+        "totalAmount": 23389
+    },
+    {
+        "id": 219,
+        "date": "2024-04-11",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Garri",
+            "Rice",
+            "Chicken",
+            "Cassava"
+        ],
+        "totalAmount": 7930
+    },
+    {
+        "id": 220,
+        "date": "2024-03-14",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Eggs",
+            "Beef"
+        ],
+        "totalAmount": 29967
+    },
+    {
+        "id": 221,
+        "date": "2024-04-28",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Milk",
+            "Salt",
+            "Garri",
+            "Rice"
+        ],
+        "totalAmount": 15444
+    },
+    {
+        "id": 222,
+        "date": "2025-06-07",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Maize",
+            "Beans"
+        ],
+        "totalAmount": 7393
+    },
+    {
+        "id": 223,
+        "date": "2023-11-16",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Rice",
+            "Tomatoes",
+            "Salt",
+            "Beef",
+            "Eggs"
+        ],
+        "totalAmount": 8438
+    },
+    {
+        "id": 224,
+        "date": "2024-01-13",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Yam",
+            "Onions"
+        ],
+        "totalAmount": 18998
+    },
+    {
+        "id": 225,
+        "date": "2024-09-01",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Oil",
+            "Milk",
+            "Beans",
+            "Spices",
+            "Onions"
+        ],
+        "totalAmount": 43059
+    },
+    {
+        "id": 226,
+        "date": "2025-04-22",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Rice",
+            "Sugar"
+        ],
+        "totalAmount": 47338
+    },
+    {
+        "id": 227,
+        "date": "2024-04-06",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Yam",
+            "Oil",
+            "Cassava"
+        ],
+        "totalAmount": 13584
+    },
+    {
+        "id": 228,
+        "date": "2024-09-07",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Chicken"
+        ],
+        "totalAmount": 47274
+    },
+    {
+        "id": 229,
+        "date": "2024-01-16",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Chicken",
+            "Salt",
+            "Eggs",
+            "Tomatoes"
+        ],
+        "totalAmount": 9213
+    },
+    {
+        "id": 230,
+        "date": "2024-07-03",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Fish",
+            "Spices",
+            "Pepper",
+            "Onions"
+        ],
+        "totalAmount": 2816
+    },
+    {
+        "id": 231,
+        "date": "2025-04-10",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Salt",
+            "Beans",
+            "Cassava"
+        ],
+        "totalAmount": 40273
+    },
+    {
+        "id": 232,
+        "date": "2024-02-24",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Bread",
+            "Cassava"
+        ],
+        "totalAmount": 28410
+    },
+    {
+        "id": 233,
+        "date": "2024-11-27",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Onions",
+            "Plantain",
+            "Spices",
+            "Bread",
+            "Garri"
+        ],
+        "totalAmount": 7468
+    },
+    {
+        "id": 234,
+        "date": "2024-04-30",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Spices",
+            "Yam",
+            "Chicken",
+            "Plantain",
+            "Rice"
+        ],
+        "totalAmount": 49667
+    },
+    {
+        "id": 235,
+        "date": "2024-12-13",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Spices"
+        ],
+        "totalAmount": 4735
+    },
+    {
+        "id": 236,
+        "date": "2024-11-11",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Beans",
+            "Sugar"
+        ],
+        "totalAmount": 38708
+    },
+    {
+        "id": 237,
+        "date": "2025-06-08",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Beans",
+            "Spices",
+            "Sugar",
+            "Pepper"
+        ],
+        "totalAmount": 19686
+    },
+    {
+        "id": 238,
+        "date": "2023-11-06",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Pepper",
+            "Cassava",
+            "Bread"
+        ],
+        "totalAmount": 45064
+    },
+    {
+        "id": 239,
+        "date": "2024-11-20",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Salt",
+            "Tomatoes",
+            "Pepper",
+            "Bread",
+            "Eggs"
+        ],
+        "totalAmount": 4975
+    },
+    {
+        "id": 240,
+        "date": "2024-08-28",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Yam",
+            "Milk",
+            "Onions",
+            "Chicken"
+        ],
+        "totalAmount": 18043
+    },
+    {
+        "id": 241,
+        "date": "2025-07-19",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Rice",
+            "Oil",
+            "Sugar"
+        ],
+        "totalAmount": 19446
+    },
+    {
+        "id": 242,
+        "date": "2025-06-07",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Fish",
+            "Pepper",
+            "Oil",
+            "Plantain"
+        ],
+        "totalAmount": 15915
+    },
+    {
+        "id": 243,
+        "date": "2025-07-18",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Oil",
+            "Chicken",
+            "Pepper"
+        ],
+        "totalAmount": 32707
+    },
+    {
+        "id": 244,
+        "date": "2025-01-25",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Rice",
+            "Milk"
+        ],
+        "totalAmount": 28134
+    },
+    {
+        "id": 245,
+        "date": "2023-12-09",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Rice",
+            "Plantain",
+            "Garri",
+            "Spices"
+        ],
+        "totalAmount": 5667
+    },
+    {
+        "id": 246,
+        "date": "2025-05-20",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Milk",
+            "Bread"
+        ],
+        "totalAmount": 16596
+    },
+    {
+        "id": 247,
+        "date": "2024-10-09",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Beef",
+            "Fish",
+            "Eggs",
+            "Tomatoes",
+            "Yam"
+        ],
+        "totalAmount": 6882
+    },
+    {
+        "id": 248,
+        "date": "2024-03-01",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Milk",
+            "Onions",
+            "Eggs"
+        ],
+        "totalAmount": 15935
+    },
+    {
+        "id": 249,
+        "date": "2025-07-02",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Spices",
+            "Tomatoes"
+        ],
+        "totalAmount": 27638
+    },
+    {
+        "id": 250,
+        "date": "2024-10-07",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Maize",
+            "Salt",
+            "Beef",
+            "Beans"
+        ],
+        "totalAmount": 27964
+    },
+    {
+        "id": 251,
+        "date": "2024-05-08",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Onions",
+            "Fish",
+            "Tomatoes",
+            "Bread",
+            "Plantain"
+        ],
+        "totalAmount": 13540
+    },
+    {
+        "id": 252,
+        "date": "2024-11-27",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Sugar",
+            "Milk",
+            "Fish"
+        ],
+        "totalAmount": 5792
+    },
+    {
+        "id": 253,
+        "date": "2025-04-06",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Garri",
+            "Pepper",
+            "Rice"
+        ],
+        "totalAmount": 5520
+    },
+    {
+        "id": 254,
+        "date": "2025-01-10",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Yam",
+            "Beef",
+            "Sugar",
+            "Tomatoes",
+            "Milk"
+        ],
+        "totalAmount": 25758
+    },
+    {
+        "id": 255,
+        "date": "2025-02-14",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Beans",
+            "Fish",
+            "Tomatoes"
+        ],
+        "totalAmount": 43754
+    },
+    {
+        "id": 256,
+        "date": "2024-01-15",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Bread",
+            "Beans",
+            "Maize",
+            "Plantain"
+        ],
+        "totalAmount": 40979
+    },
+    {
+        "id": 257,
+        "date": "2025-04-13",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Bread",
+            "Plantain",
+            "Maize"
+        ],
+        "totalAmount": 44374
+    },
+    {
+        "id": 258,
+        "date": "2023-12-14",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Beans",
+            "Chicken",
+            "Rice"
+        ],
+        "totalAmount": 46749
+    },
+    {
+        "id": 259,
+        "date": "2025-05-08",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Eggs",
+            "Sugar"
+        ],
+        "totalAmount": 26696
+    },
+    {
+        "id": 260,
+        "date": "2023-12-16",
+        "location": "Mile 12 Market",
+        "itemsPurchased": [
+            "Spices",
+            "Onions",
+            "Oil"
+        ],
+        "totalAmount": 38771
+    },
+    {
+        "id": 261,
+        "date": "2024-02-11",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Eggs",
+            "Salt",
+            "Bread",
+            "Beans"
+        ],
+        "totalAmount": 30511
+    },
+    {
+        "id": 262,
+        "date": "2025-06-16",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Sugar"
+        ],
+        "totalAmount": 34902
+    },
+    {
+        "id": 263,
+        "date": "2025-05-25",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Oil",
+            "Fish",
+            "Garri",
+            "Yam"
+        ],
+        "totalAmount": 22251
+    },
+    {
+        "id": 264,
+        "date": "2025-02-28",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Beef",
+            "Oil",
+            "Salt"
+        ],
+        "totalAmount": 2353
+    },
+    {
+        "id": 265,
+        "date": "2024-08-24",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Maize",
+            "Oil",
+            "Yam",
+            "Beans"
+        ],
+        "totalAmount": 28531
+    },
+    {
+        "id": 266,
+        "date": "2024-11-18",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Oil",
+            "Chicken",
+            "Rice",
+            "Bread",
+            "Tomatoes"
+        ],
+        "totalAmount": 34666
+    },
+    {
+        "id": 267,
+        "date": "2023-08-25",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Beans"
+        ],
+        "totalAmount": 12218
+    },
+    {
+        "id": 268,
+        "date": "2024-04-08",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Spices",
+            "Plantain",
+            "Yam"
+        ],
+        "totalAmount": 17210
+    },
+    {
+        "id": 269,
+        "date": "2023-08-19",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Garri",
+            "Fish",
+            "Sugar",
+            "Rice"
+        ],
+        "totalAmount": 5069
+    },
+    {
+        "id": 270,
+        "date": "2024-01-27",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Milk",
+            "Eggs"
+        ],
+        "totalAmount": 44123
+    },
+    {
+        "id": 271,
+        "date": "2024-09-16",
+        "location": "Ajah Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Yam",
+            "Milk",
+            "Eggs"
+        ],
+        "totalAmount": 19362
+    },
+    {
+        "id": 272,
+        "date": "2024-02-09",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Garri",
+            "Bread",
+            "Maize"
+        ],
+        "totalAmount": 4378
+    },
+    {
+        "id": 273,
+        "date": "2024-12-12",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Spices",
+            "Plantain",
+            "Beef"
+        ],
+        "totalAmount": 35588
+    },
+    {
+        "id": 274,
+        "date": "2024-09-02",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Maize",
+            "Chicken"
+        ],
+        "totalAmount": 35533
+    },
+    {
+        "id": 275,
+        "date": "2024-10-07",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Rice",
+            "Beef",
+            "Milk",
+            "Oil"
+        ],
+        "totalAmount": 23417
+    },
+    {
+        "id": 276,
+        "date": "2025-01-11",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Onions",
+            "Chicken"
+        ],
+        "totalAmount": 40061
+    },
+    {
+        "id": 277,
+        "date": "2024-10-20",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Onions",
+            "Fish"
+        ],
+        "totalAmount": 24786
+    },
+    {
+        "id": 278,
+        "date": "2025-03-24",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Rice",
+            "Fish",
+            "Salt",
+            "Beans"
+        ],
+        "totalAmount": 29082
+    },
+    {
+        "id": 279,
+        "date": "2023-10-05",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Beans",
+            "Eggs",
+            "Milk",
+            "Spices"
+        ],
+        "totalAmount": 17549
+    },
+    {
+        "id": 280,
+        "date": "2024-01-13",
+        "location": "Oyingbo Market",
+        "itemsPurchased": [
+            "Oil",
+            "Beef",
+            "Yam",
+            "Rice",
+            "Cassava"
+        ],
+        "totalAmount": 36255
+    },
+    {
+        "id": 281,
+        "date": "2025-03-15",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Maize",
+            "Cassava",
+            "Onions",
+            "Bread"
+        ],
+        "totalAmount": 24643
+    },
+    {
+        "id": 282,
+        "date": "2023-10-25",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Milk",
+            "Eggs"
+        ],
+        "totalAmount": 27481
+    },
+    {
+        "id": 283,
+        "date": "2024-10-27",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Yam",
+            "Onions",
+            "Tomatoes",
+            "Pepper"
+        ],
+        "totalAmount": 35056
+    },
+    {
+        "id": 284,
+        "date": "2025-06-14",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Fish",
+            "Cassava",
+            "Beef",
+            "Pepper"
+        ],
+        "totalAmount": 47428
+    },
+    {
+        "id": 285,
+        "date": "2024-08-17",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Beans",
+            "Eggs",
+            "Milk",
+            "Salt"
+        ],
+        "totalAmount": 27485
+    },
+    {
+        "id": 286,
+        "date": "2024-04-03",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Sugar",
+            "Bread"
+        ],
+        "totalAmount": 49244
+    },
+    {
+        "id": 287,
+        "date": "2025-01-08",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Milk",
+            "Beans",
+            "Tomatoes",
+            "Rice",
+            "Beef"
+        ],
+        "totalAmount": 31524
+    },
+    {
+        "id": 288,
+        "date": "2024-12-16",
+        "location": "Alaba International",
+        "itemsPurchased": [
+            "Rice",
+            "Salt",
+            "Maize"
+        ],
+        "totalAmount": 39590
+    },
+    {
+        "id": 289,
+        "date": "2023-10-17",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Chicken",
+            "Onions",
+            "Yam"
+        ],
+        "totalAmount": 19140
+    },
+    {
+        "id": 290,
+        "date": "2024-02-13",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Tomatoes",
+            "Chicken",
+            "Yam",
+            "Fish"
+        ],
+        "totalAmount": 26979
+    },
+    {
+        "id": 291,
+        "date": "2024-10-04",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Fish",
+            "Tomatoes",
+            "Pepper"
+        ],
+        "totalAmount": 29150
+    },
+    {
+        "id": 292,
+        "date": "2024-03-25",
+        "location": "Computer Village",
+        "itemsPurchased": [
+            "Sugar",
+            "Pepper",
+            "Chicken"
+        ],
+        "totalAmount": 2708
+    },
+    {
+        "id": 293,
+        "date": "2024-02-09",
+        "location": "Balogun Market",
+        "itemsPurchased": [
+            "Salt",
+            "Spices"
+        ],
+        "totalAmount": 25731
+    },
+    {
+        "id": 294,
+        "date": "2024-08-28",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Yam",
+            "Eggs",
+            "Maize",
+            "Tomatoes"
+        ],
+        "totalAmount": 6744
+    },
+    {
+        "id": 295,
+        "date": "2023-11-15",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Garri",
+            "Beans",
+            "Salt",
+            "Eggs",
+            "Oil"
+        ],
+        "totalAmount": 5689
+    },
+    {
+        "id": 296,
+        "date": "2023-11-13",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Bread",
+            "Tomatoes",
+            "Chicken",
+            "Maize"
+        ],
+        "totalAmount": 29785
+    },
+    {
+        "id": 297,
+        "date": "2024-02-23",
+        "location": "Ketu Market",
+        "itemsPurchased": [
+            "Bread",
+            "Yam"
+        ],
+        "totalAmount": 39824
+    },
+    {
+        "id": 298,
+        "date": "2025-01-03",
+        "location": "Yaba Market",
+        "itemsPurchased": [
+            "Oil",
+            "Cassava",
+            "Spices",
+            "Eggs",
+            "Plantain"
+        ],
+        "totalAmount": 48174
+    },
+    {
+        "id": 299,
+        "date": "2025-05-19",
+        "location": "Lekki Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Spices",
+            "Fish",
+            "Oil",
+            "Garri"
+        ],
+        "totalAmount": 37691
+    },
+    {
+        "id": 300,
+        "date": "2025-08-07",
+        "location": "Tejuosho Market",
+        "itemsPurchased": [
+            "Plantain",
+            "Yam",
+            "Sugar",
+            "Beans",
+            "Fish"
+        ],
+        "totalAmount": 21087
+    }
+]
